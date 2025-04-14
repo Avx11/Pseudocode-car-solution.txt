@@ -1,0 +1,19 @@
+1- Start
+2- Define FE_car1, Price_car1, FE_car2, Price_car2 
+3- Input  FE_car1 = "Please enter Fuel efficient(in miles per gallon, mpg) for car 1:"
+4- Input  Price_car1 = "Please enter the price for car 1:"
+5- Input  FE_car2 = "Please enter Fuel efficient(in miles per gallon, mpg) for car 2:"
+6- Input  Price_car2 = "Please enter the price for car 2:"
+7- Define Price per gallon = 4.00, Annual miles driven= 15000, Length of time = 10 years as fixed variable 
+8- Calculate the Annual efficient cost for both 2 cars
+Annual efficient cost = Annual miles driven / Fuel efficient 
+9- Calculate the Annual efficient cost for one year for both 2 cars
+Annual efficient cost for one year = Annual efficient cost * Price per gallon = 4.00
+10- Calculate the annual efficient cost in 10 years for both 2 cars
+ annual efficient cost in 10 years = Annual efficient cost for one year * Length of time = 10 years
+11- Compare the 2 cars calculation 
+12- if car 1 > car 2 :
+13-	 Print "Car 1 will cost you more in the next 10 years."
+14- else :
+15-	 Print "Car 2 will cost you more in the next 10 years."
+17- End program 
